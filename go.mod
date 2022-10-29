@@ -1,3 +1,3 @@
-module pystrings
+module gopylib
 
 go 1.18
